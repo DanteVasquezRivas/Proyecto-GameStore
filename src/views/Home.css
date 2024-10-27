@@ -1,0 +1,16 @@
+.home {
+  text-align: center;
+}
+
+.homeImg {
+  background-image: url("../assets/img/LogosConsolas.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 25rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  color:white;
+}
